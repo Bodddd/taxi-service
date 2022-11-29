@@ -1,11 +1,11 @@
-# taxi-service🚘
-##<h>☕Short description</h>
+# 🚕Taxi-service🚖
+## <h>☕Short description</h>
 It's a simple web-application which follows SOLID and also build according to N-tier architecture patterns.
 This project implements such ability as authorization, registration and non-access to some
 resources by non-authorized users by using filters. Methods of working with databases, namely CRUD, are also shown.
 Here we have 4 layers: GUI, business layer, persistence layer, database layer
 
-##<h>📋Features</h>
+## <h>📋Features</h>
 * Registration as a driver
 * Authentication a driver. Only authenticated driver can use functional capabilities
 * Display all drivers / cars / manufacturers
@@ -15,14 +15,14 @@ Here we have 4 layers: GUI, business layer, persistence layer, database layer
 * Display all cars for user that was authenticated
 * Add drivers to car
 
-##<h>🧠Project structure</h>
+## <h>🧠Project structure</h>
 <strong><i>&nbsp;&nbsp;&nbsp;3-layer architecture</i></strong>
 * Presentation layer - controllers
 * Application layer - services
 * Data access layer - DAO
 
-##<h>🛠Technologies</h>
-* JDK 11
+## <h>🛠Technologies</h>
+* <a href="https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html">JDK 11</a>
 * Maven 4.0
 * MySQL 8.0.22
 * TomCat 9.0.50
@@ -31,7 +31,7 @@ Here we have 4 layers: GUI, business layer, persistence layer, database layer
 * JDBC
 * JSP
 
-##<h>👌How to start the program</h>
+## <h>👌How to start the program</h>
 1️⃣Install <i>TomCat version 9.0.50</i> and MySQL\
 2️⃣Clone the project from GitHub\
 3️⃣Use <i>init_db.sql</i> to create a schema and tables\
