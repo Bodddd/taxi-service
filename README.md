@@ -24,15 +24,16 @@ Here we have 4 layers: GUI, business layer, persistence layer, database layer
 ## <h>🛠Technologies</h>
 * <a href="https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html">JDK 11</a>
 * Maven 4.0
-* MySQL 8.0.22
-* TomCat 9.0.50
+* <a href="https://dev.mysql.com/downloads/mysql/">MySQL 8.0.22</a>
+* <a href="https://tomcat.apache.org/download-90.cgi">TomCat 9.0.50</a>
 * Java Servlet API 4.0.1
 * JSTL 1.2
 * JDBC
 * JSP
 
 ## <h>👌How to start the program</h>
-1️⃣Install <i>TomCat version 9.0.50</i> and MySQL\
+1️⃣Install <a href="https://tomcat.apache.org/download-90.cgi"><i>TomCat version 9.0.50</i></a>
+and <a href="https://dev.mysql.com/downloads/mysql/"><i>MySQL</i></a>\
 2️⃣Clone the project from GitHub\
 3️⃣Use <i>init_db.sql</i> to create a schema and tables\
 4️⃣Configure <i>ConnectionUtil</i> with your own parameters\
