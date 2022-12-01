@@ -41,5 +41,5 @@ and <a href="https://dev.mysql.com/downloads/mysql/"><i>MySQL</i></a>\
 6️⃣For confidence you can run in console <i>mvn clean package</i> 
 <<<<<<< HEAD
 
-##<h>🚀UML Diagram</h>
+## <h>🚀UML Diagram</h>
 <img src="diagram.jpeg" alt="uml">
