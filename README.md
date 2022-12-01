@@ -40,5 +40,5 @@ and <a href="https://dev.mysql.com/downloads/mysql/"><i>MySQL</i></a>\
 5️⃣Configure <i>TomCat</i> for this project\
 6️⃣For confidence you can run in console <i>mvn clean package</i> 
 
-##<h>🚀UML Diagram</h>
+## <h>🚀UML Diagram</h>
 <img src="diagram.png" alt="uml">
