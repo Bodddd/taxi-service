@@ -38,3 +38,6 @@ Here we have 4 layers: GUI, business layer, persistence layer, database layer
 4️⃣Configure <i>ConnectionUtil</i> with your own parameters\
 5️⃣Configure <i>TomCat</i> for this project\
 6️⃣For confidence you can run in console <i>mvn clean package</i> 
+
+##<h>🚀UML Diagram</h>
+<img src="diagram.jpeg" alt="uml">
