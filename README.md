@@ -42,4 +42,4 @@ and <a href="https://dev.mysql.com/downloads/mysql/"><i>MySQL</i></a>\
 <<<<<<< HEAD
 
 ##<h>🚀UML Diagram</h>
-<img src="diagram.jpeg" alt="uml">
+<img src="diagram.png" alt="uml">
