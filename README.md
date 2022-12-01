@@ -39,3 +39,7 @@ and <a href="https://dev.mysql.com/downloads/mysql/"><i>MySQL</i></a>\
 4️⃣Configure <i>ConnectionUtil</i> with your own parameters\
 5️⃣Configure <i>TomCat</i> for this project\
 6️⃣For confidence you can run in console <i>mvn clean package</i> 
+<<<<<<< HEAD
+
+##<h>🚀UML Diagram</h>
+<img src="diagram.jpeg" alt="uml">
